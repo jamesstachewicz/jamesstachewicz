@@ -1,6 +1,6 @@
 # About Me
 
-I am a year 12 student at All Saints' College studying Computer Science ATAR.
+## I am a year 12 student at All Saints' College studying Computer Science ATAR.
 
 ###	• validate input before processing (checking that the data inputted is accepted before excecuted)
  
